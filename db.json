@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "uid": "uid 1",
+      "name": "name 1",
+      "birthday": "2020-06-17T20:03:50.895Z",
+      "email": "email 1"
+    },
+    {
+      "uid": "duP1w5H2fgaTARkyU06iQE04zwi2",
+      "name": "Rodrigo Felipe",
+      "birthday": "1992-01-11T10:48:21.767Z",
+      "email": "rodrigo@gmail.com"
+    }
+  ],
+  "user": {
+    "uid": "duP1w5H2fgaTARkyU06iQE04zwi2",
+    "nome": "Rodrigo Felipe",
+    "data_aniversario": "1992-01-11T10:48:21.767Z",
+    "email": "rodrigo@gmail.com",
+    "tipo": "admin"
+  }
+}
